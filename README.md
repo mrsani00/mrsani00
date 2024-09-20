@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrsani
-- 👀 I’m interested in AI projects & overall workfolow of the alternative things 
+- 👀 I’m interested in AI projects & overall workflow of the alternative things 
 - 🌱 I’m currently learning languages basend on game development
 - 💞️ I’m looking to collaborators for Game development projects
 - 📫 You can reach me through Email:- mrbhudevvlogs@gmail.com
